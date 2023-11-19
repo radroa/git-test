@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    cursor: progress;
+    /*border: 1px solid red;*/
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.heading{
+    text-align: center;
+}
+
+.content{
+    background-color: white;
+    margin: auto;
+    height: auto;
+    width: 400px;
+}
+
+.main-content{
+    padding: 10px;
+}
+
+a{
+    cursor:not-allowed;
+}
